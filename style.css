@@ -54,18 +54,14 @@ input {
   width: 820px;
 }
 
-.primo {
-  width: 730px;
-  bottom: 220px;
-}
-.secondo {
-  width: 730px;
-  bottom: 150px;
-}
-.terzo {
-  bottom: 80px;
-}
-.quarto {
-  width: 755px;
-  bottom: 10px;
+textarea {
+  font-family: serif;
+  position: absolute;
+  left: 15px;
+  bottom: 20px;
+  font-size: 50px;
+  height: 260px;
+  margin: 0px;
+  width: 800px;
+  font-style: italic;
 }
